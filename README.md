@@ -409,12 +409,6 @@ LLMagical is released under the MIT License. See individual component directorie
 If you use LLMagical in your research, please cite:
 
 ```bibtex
-@inproceedings{llmagical2024,
-  title={LLMagical: AI-Enhanced Automated Analog IC Layout with Natural Language Processing},
-  author={Authors},
-  booktitle={Proceedings of IEEE/ACM International Conference on Computer-Aided Design},
-  year={2024}
-}
 
 @inproceedings{magical2019,
   title={MAGICAL: Toward Fully Automated Analog IC Layout Leveraging Human and Machine Intelligence},
